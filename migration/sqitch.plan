@@ -1,0 +1,8 @@
+%syntax-version=1.0.0
+%project=migrations
+
+001-base-schema 2020-12-17T12:44:02Z "Etudiant O'clock",,, <etudiant@teleporteur> # schema de base de mon application
+020-menu-view 2020-12-17T13:16:38Z "Etudiant O'clock",,, <etudiant@teleporteur> # creation de la view
+030-ingredient_bought 2020-12-17T13:33:44Z "Etudiant O'clock",,, <etudiant@teleporteur> # fonction pour simplifier la manipulation du schema
+040-drink-soft-delete 2020-12-17T13:56:12Z "Etudiant O'clock",,, <etudiant@teleporteur> # Soft delete pour les boissons
+050-stock_vente_solde_restock_classement 2020-12-17T15:03:13Z "Etudiant O'clock",,, <etudiant@teleporteur> # gestion de stock,de vente, soldede la caisse, le reassort,preference
