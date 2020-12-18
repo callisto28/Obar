@@ -6,3 +6,4 @@
 030-ingredient_bought 2020-12-17T13:33:44Z "Etudiant O'clock",,, <etudiant@teleporteur> # fonction pour simplifier la manipulation du schema
 040-drink-soft-delete 2020-12-17T13:56:12Z "Etudiant O'clock",,, <etudiant@teleporteur> # Soft delete pour les boissons
 050-stock_vente_solde_restock_classement 2020-12-17T15:03:13Z "Etudiant O'clock",,, <etudiant@teleporteur> # gestion de stock,de vente, soldede la caisse, le reassort,preference
+060-role_utilisateur 2020-12-18T08:15:41Z "Etudiant O'clock",,, <etudiant@teleporteur> # Ajout d'un user pour le web
